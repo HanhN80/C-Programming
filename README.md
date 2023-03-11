@@ -1,4 +1,4 @@
-# C-Programming
+
 
 echo "# C-Programming" >> README.md
 git init
